@@ -1,0 +1,1 @@
+import{a as o}from"./SupportKey-4gx6Wyty.js";import{_ as s,d as c,e as n,p as a,t as r,o as _}from"./index-CqVMeU1N.js";const l={},p={class:"w-full h-full flex flex-col"},d={class:"text-h4 mb-3 lg:text-h4-desktop lg:mb-4"};function f(e,i){const t=o;return _(),c("div",p,[n("div",d,r(e.$t("menu.support")),1),a(t)])}const h=s(l,[["render",f]]);export{h as default};
